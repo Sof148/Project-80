@@ -1,0 +1,24 @@
+h1{
+    margin-bottom: 30px;
+    color: black;
+    
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: white;
+    border: solid;
+    font-weight: normal;
+}
+button{
+    margin-bottom: 20px;
+    background-color: white;
+    font-weight: normal;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: white;
+}
